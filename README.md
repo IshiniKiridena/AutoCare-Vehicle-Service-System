@@ -13,12 +13,3 @@ W.M.K.H.B Wijethunga
 
 M.E.J.D Marasinghe 
 
-R.R.J.K.V.Bandara Aramba
-
-U.M.L.A.Nawarathne
-
-P.M.P.P.Palihena
-
-U.D.S.Bandara
-
-S.D.J.Gunawardhana
