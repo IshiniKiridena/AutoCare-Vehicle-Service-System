@@ -5,11 +5,10 @@ The “AutoCare” is a web application based on vehicle service and vehicle par
 
 ## Contributors
 
-I.T.K Kiridena 
-
 R.V Karunarathne 
 
 W.M.K.H.B Wijethunga 
 
 M.E.J.D Marasinghe 
 
+I.T.K Kiridena 
