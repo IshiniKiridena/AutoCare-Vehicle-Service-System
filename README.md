@@ -19,13 +19,13 @@ Java, MySQL, Bootstrap
 
 ## Prerequsites
 
-1.Eclipse IDE
-2.Tomcat Server
-3.MySQL
-4.Autocare local Database 
+1. Eclipse IDE
+2. Tomcat Server
+3. MySQL
+4. Autocare local Database 
 
 ## Procedure of setting up prerequsites and run the project
 
-1.Set up the java environment by downloading the JDK and Eclipse IDE
-2.Set up Tomcat Server and save environment variables
-3.set up autocare database after intalling MySql
+1. Set up the java environment by downloading the JDK and Eclipse IDE
+2. Set up Tomcat Server and save environment variables
+3. set up autocare database after intalling MySql
