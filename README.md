@@ -5,12 +5,27 @@ The “AutoCare” is a web application based on vehicle service and vehicle par
 
 ## Contributors
 
-R.V Karunarathne IT19979656
+R.V Karunarathne     IT19979656
 
 W.M.K.H.B Wijethunga IT19981154
 
-M.E.J.D Marasinghe IT19980164
+M.E.J.D Marasinghe   IT19980164
 
-I.T.K Kiridena IT19981840
+I.T.K Kiridena       IT19981840
 
+## Technologies
 
+Java, MySQL, Bootstrap
+
+## Prerequsites
+
+1. Eclipse IDE
+2. Tomcat Server
+3. MySQL
+4. Autocare local Database 
+
+## Procedure of setting up prerequsites and run the project
+
+1. Set up the java environment by downloading the JDK and Eclipse IDE
+2. Set up Tomcat Server and save environment variables
+3. set up autocare database after intalling MySql
