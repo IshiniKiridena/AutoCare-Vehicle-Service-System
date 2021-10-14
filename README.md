@@ -28,4 +28,4 @@ Java, MySQL, Bootstrap
 
 1. Set up the java environment by downloading the JDK and Eclipse IDE
 2. Set up Tomcat Server and save environment variables
-3. set up autocare database after intalling MySql
+3. Set up autocare database after intalling MySql
